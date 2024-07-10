@@ -1,0 +1,8 @@
+[package]
+name = "executor"
+description = "a tree walking interpreter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+parser = { path = "../parser" }

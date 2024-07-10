@@ -1,0 +1,6 @@
+let square = (x) ->
+	x * x
+
+let something = 10
+
+square(something)

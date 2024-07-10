@@ -1,0 +1,6 @@
+[workspace]
+members = ["cli", "editor", "executor", "lexer", "parser"]
+
+resolver = "2"
+
+default-members = [ "cli" ]

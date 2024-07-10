@@ -1,0 +1,12 @@
+[package]
+name = "cli"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]
+colored = "2.1.0"
+rustyline = "14.0.0"
+whoami = "1.5.1"
+lexer = { path = "../lexer" }
+parser = { path = "../parser" }
+executor = { path = "../executor" }

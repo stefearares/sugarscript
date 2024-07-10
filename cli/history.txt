@@ -1,0 +1,9 @@
+#V2
+history
+clear
+history
+hi
+history
+hi
+clear
+let five = 5

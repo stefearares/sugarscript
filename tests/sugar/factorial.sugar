@@ -1,0 +1,5 @@
+let fac = fn x -> match x:
+                  | 0 -> 1
+                  | n -> n * fac(n - 1)
+
+fac(8)
