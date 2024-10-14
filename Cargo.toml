@@ -1,5 +1,5 @@
 [workspace]
-members = ["cli", "editor", "executor", "lexer", "parser"]
+members = ["cli", "executor", "lexer", "parser"]
 
 resolver = "2"
 
